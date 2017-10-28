@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=praktikum01.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\praktikum01 -TC:\CooCox\CoIDE\configuration\ProgramData\praktikum01/arm-gcc-link.ld -g">
+      <target file="praktikum01.elf" lastModified="150ff298b8c">
+         <source file="..\obj\system_NUC1xx.o" lastModified="150ff05baa1"/>
+         <source file="..\obj\startup_NUC1xx.o" lastModified="150ff05bbab"/>
+         <source file="..\obj\Init.o" lastModified="150ff05bd4b"/>
+         <source file="..\obj\DrvSPI.o" lastModified="150ff05c00e"/>
+         <source file="..\obj\main.o" lastModified="150ff298853"/>
+         <source file="..\obj\Seven_Segment.o" lastModified="150ff05c2bd"/>
+         <source file="..\obj\DrvGPIO.o" lastModified="150ff05c51f"/>
+         <source file="..\obj\ScanKey.o" lastModified="150ff087f41"/>
+         <source file="..\obj\DrvSYS.o" lastModified="150ff05c7c8"/>
+         <source file="..\obj\Ascii_Table.o" lastModified="150ff0e55ba"/>
+         <source file="..\obj\DrvADC.o" lastModified="150ff05ca22"/>
+         <source file="..\obj\LCD_Driver.o" lastModified="150ff0e580a"/>
+         <source file="..\obj\core_cm0.o" lastModified="150ff05cb51"/>
+      </target>
+   </processor>
+</history>
